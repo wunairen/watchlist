@@ -11,6 +11,7 @@ python-dotenv = "*"
 flask-sqlalchemy = "*"
 flask-login = "*"
 usermixin = "*"
+coverage = "*"
 
 [requires]
 python_version = "3.6"
